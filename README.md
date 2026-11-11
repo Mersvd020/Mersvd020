@@ -69,5 +69,5 @@ Pinned repositories showcase:
 
 ## 📫 Connect with Me
 - GitHub: [Mersvd020](https://github.com/Mersvd020)  
-- Email: mosaybimersvd020@gmail.com
-- LinkedIn: [Mori Mosayebi](www.linkedin.com/in/mori-mosayebi-b265223a2)
+- Email: mosayebimersad83@gmail.com
+- LinkedIn: www.linkedin.com/in/mersad-mosayebi-51b318423
